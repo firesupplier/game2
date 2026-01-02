@@ -50,6 +50,7 @@
     <Compile Include="Assets/Script/flicker.cs" />
     <Compile Include="Assets/Script/ButtonSound.cs" />
     <Compile Include="Assets/Script/PopupController.cs" />
+    <Compile Include="Assets/Script/ButtonPressAnimation.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
