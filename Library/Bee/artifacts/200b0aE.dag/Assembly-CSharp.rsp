@@ -402,6 +402,8 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/glTFast.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/glTFast.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/PPv2URPConverters.ref.dll"
+-r:"Library/Bee/artifacts/200b0aE.dag/Unity.2D.Sprite.AIIntegration.Editor.ref.dll"
+-r:"Library/Bee/artifacts/200b0aE.dag/Unity.2D.Sprite.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.Burst.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.Burst.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.Collections.Editor.ref.dll"
@@ -459,6 +461,7 @@
 -analyzer:"/Applications/Unity/Hub/Editor/6000.3.0f1/Unity.app/Contents/Resources/BuildPipeline/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Script/flicker.cs"
 "Assets/Script/PlaneScript.cs"
+"Assets/Script/start.cs"
 -langversion:9.0
 /deterministic
 /optimize+

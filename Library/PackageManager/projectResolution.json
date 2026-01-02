@@ -9,6 +9,16 @@
     "/Applications/Unity/Hub/Editor/6000.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
+    "com.unity.2d.sprite@1.0.0": {
+      "name": "com.unity.2d.sprite",
+      "displayName": "2D Sprite",
+      "resolvedPath": "/Users/anarazpet/Documents/Fax/3.letnik/RGTI/game2/Library/PackageCache/com.unity.2d.sprite@ee8d95778bc9",
+      "fingerprint": "ee8d95778bc93b93d9627cabad1c44d5b6e964d8",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
     "com.unity.cloud.gltfast@6.15.1": {
       "name": "com.unity.cloud.gltfast",
       "displayName": "Unity glTFast",
